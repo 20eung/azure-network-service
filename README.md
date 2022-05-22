@@ -22,7 +22,7 @@
 <img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/architecture.png" title="Azure Bastion" alt="Azure Bastion"></img><br/>
 
 ### - Virtual Network NAT Gateway
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/flow-map.png" title="Azure Virtual Network NAT Gateway" alt="Azure Virtual Network NAT Gateway"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/flow-map.png" title="Azure Virtual Network NAT Gateway" alt="Azure Virtual Network NAT Gateway"></img><br/>
 
 ### - Azure Peering Service
 
