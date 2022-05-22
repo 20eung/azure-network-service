@@ -57,7 +57,7 @@
 ### - Traffic Manager
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/priority.png" title="Azure Traffic Manager" alt="Azure Traffic Manager"></img><br/>
 
-### - Load Babancer
+### - Load Balbancer
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/load-balancer.png" title="Azure Load Babancer" alt="Azure Load Babancer"></img><br/>
 
 ### - Application Gateway
