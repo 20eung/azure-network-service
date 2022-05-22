@@ -9,17 +9,17 @@
 
 ### - 가상 네트워크(VNet)
 ### - ExpressRoute
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/expressroute-connection-overview.png" title="Azure ExpressRoute" alt="Azure ExpressRoute"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/expressroute-connection-overview.png" title="Azure ExpressRoute" alt="Azure ExpressRoute"></img><br/>
 
 ### - VPN Gateway
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/vpngateway-multisite-connection-diagram.png" title="Azure VPN Gateway" alt="Azure VPN Gateway"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/vpngateway-multisite-connection-diagram.png" title="Azure VPN Gateway" alt="Azure VPN Gateway"></img><br/>
 
 ### - 가상 WAN
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/virtualwan1.png" title="Azure Virtual WAN" alt="Azure Virtual WAN"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/virtualwan1.png" title="Azure Virtual WAN" alt="Azure Virtual WAN"></img><br/>
 
 ### - Azure DNS
 ### - Azure Bastion
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/architecture.png" title="Azure Bastion" alt="Azure Bastion"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/architecture.png" title="Azure Bastion" alt="Azure Bastion"></img><br/>
 
 ### - Virtual Network NAT Gateway
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/flow-map.png" title="Azure Virtual Network NAT Gateway" alt="Azure Virtual Network NAT Gateway"></img><br/>
@@ -33,7 +33,7 @@
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/ddos-protection.png" title="Azure DDoS Protection" alt="Azure DDoS Protection"></img><br/>
 
 ### - Azure Private Link
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/private-endpoint.png" title="Azure Private Link" alt="Azure Private Link"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/private-endpoint.png" title="Azure Private Link" alt="Azure Private Link"></img><br/>
 
 ### - Azure Firewall
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/firewall-threat.png" title="Azure Firewall" alt="Azure Firewall"></img><br/>
@@ -55,7 +55,7 @@
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/front-door-visual-diagram.png" title="Azure Front Door Service" alt="Azure Front Door Service"></img><br/>
 
 ### - Traffic Manager
-<img src="https://docs.microsoft.com/ko-kr/azure/networking/fundamentals/media/networking-overview/priority.png" title="Azure Traffic Manager" alt="Azure Traffic Manager"></img><br/>
+<img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/priority.png" title="Azure Traffic Manager" alt="Azure Traffic Manager"></img><br/>
 
 ### - Load Babancer
 <img src="https://docs.microsoft.com/en-us/azure/networking/fundamentals/media/networking-overview/load-balancer.png" title="Azure Load Babancer" alt="Azure Load Babancer"></img><br/>
